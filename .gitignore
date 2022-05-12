@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+#ignore sanityblog folder nodemodules and
+sanity-blog/node_modules
+
 # production
 /build
 
@@ -36,3 +39,4 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
